@@ -90,4 +90,4 @@ nb-configuration.xml
 ##############################
 ## Project specific
 ##############################
-files
+files/*.txt
